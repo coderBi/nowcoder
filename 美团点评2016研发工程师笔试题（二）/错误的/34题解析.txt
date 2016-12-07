@@ -1,0 +1,15 @@
+①： c++标准stl序列容器有： vector是数组存贮  list是链表存贮  string类似于vector  deque是双向队列可以从两端进行插入跟删除
+②： c++标准stl关联容器： map键值对可以支持[]访问 multimap  set利用的hash存贮没有办法用[]访问  multiset
+③： 非标准的stl容器： stack  bitset  queue  priority_queue
+
+------
+选项分析：
+A vector 可以，是数组
+B list  不可以，是链表
+C deque  双向链表，答案说可以，个人没用过，不知道
+D map  键值对，支持[]访问
+E set  没有办法随机访问
+F unordered_map 类比map
+G unordered_set 类比set
+H stack 后进先出，没有办法直接访问
+I string 内部new了一个数组

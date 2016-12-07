@@ -1,0 +1,8 @@
+网络层协议：ip icmp arp rarp
+传输层： tcp udp
+应用层协议：ftp文件书协议 telenet远程登录协议  dns域名解析协议  smtp邮件传输协议 pop3邮局协议
+ http协议 snmp简单传输协议  tftp
+
+
+----------
+这一题的ftp telenet smtp dns 都在应用层。而icmp在网络层。
