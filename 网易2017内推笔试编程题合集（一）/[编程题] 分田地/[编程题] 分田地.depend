@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481996574 source:c:\users\administrator\desktop\[编程题] 分田地\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+
