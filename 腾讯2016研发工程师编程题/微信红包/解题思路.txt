@@ -1,2 +1,2 @@
-×öÒ»¸ömap£¬ÒÀ´ÎÉ¨ÃèÌá¹©µÄÁÐ±í£¬Èç¹ûÌá¹©µÄÕâÒ»Ïî²»ÔÚ×Ô¼º½¨Á¢µÄmapÀïÃæ£¬¾ÍÌí¼Óµ½mapÀïÃæ£¬mapµÄkey¾ÍÊÇÉ¨Ãèµ½µÄÔªËØÖµ£¬valueÊÇ1¡£Èç¹û·¢ÏÖÕâ¸ömapÀïÃæÒÑ¾­´æÔÚÁËÕâÒ»Ïî£¬¾ÍÖ±½Ó½«value¼Ó1¡£
-Õû¸öÊäÈëÁÐ±íÉ¨ÃèÍê±ÏÖ®ºó£¬ÔÚÉ¨ÃèÕâ¸ömap£¬Èç¹ûÆäÖÐÓÐvalue > n / 2µÄ¾Í´òÓ¡£¬·ñÔò¾Í´òÓ¡0.
+åšä¸€ä¸ªmapï¼Œä¾æ¬¡æ‰«ææä¾›çš„åˆ—è¡¨ï¼Œå¦‚æžœæä¾›çš„è¿™ä¸€é¡¹ä¸åœ¨è‡ªå·±å»ºç«‹çš„mapé‡Œé¢ï¼Œå°±æ·»åŠ åˆ°mapé‡Œé¢ï¼Œmapçš„keyå°±æ˜¯æ‰«æåˆ°çš„å…ƒç´ å€¼ï¼Œvalueæ˜¯1ã€‚å¦‚æžœå‘çŽ°è¿™ä¸ªmapé‡Œé¢å·²ç»å­˜åœ¨äº†è¿™ä¸€é¡¹ï¼Œå°±ç›´æŽ¥å°†valueåŠ 1ã€‚
+æ•´ä¸ªè¾“å…¥åˆ—è¡¨æ‰«æå®Œæ¯•ä¹‹åŽï¼Œåœ¨æ‰«æè¿™ä¸ªmapï¼Œå¦‚æžœå…¶ä¸­æœ‰value > n / 2çš„å°±æ‰“å°ï¼Œå¦åˆ™å°±æ‰“å°0.
